@@ -1,10 +1,10 @@
 <!-- Perfil de Bruno Gaudêncio no GitHub -->
-# 👋 Olá, eu sou o Bruno Gaudêncio!
+# Bruno Gaudêncio
 
 🎓 Estudante de **Ciência da Computação** na **UFCG**  
 💻 Apaixonado por tecnologia, programação e por crescer sempre como pessoa e profissional.  
 🙏 Devoto de **Nossa Senhora**, procuro viver minha fé também através do que faço.  
-🌱 Atualmente aprendendo **Python**, **JavaScript** e **React**.
+🌱 Atualmente aprendendo **Python** e **Java**.
 
 ---
 
@@ -35,8 +35,8 @@
 
 ## 🌐 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ailton-bruno-caldas-gaudencio-76a379389?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ailton.bruno.caldas.gaudencio@ccc.ufcg.edu.br)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brunogaudencio)
 
 ---
