@@ -1,44 +1,39 @@
-<!-- Perfil de Bruno Gaudêncio no GitHub -->
 # Bruno Gaudêncio
 
-🎓 Estudante de **Ciência da Computação** na **UFCG**  
-💻 Apaixonado por tecnologia, programação e por crescer sempre como pessoa e profissional.  
-🙏 Devoto de **Nossa Senhora**, procuro viver minha fé também através do que faço.  
-🌱 Atualmente aprendendo **Python** e **Java**.
+🎓 Estudante de **Ciência da Computação** na **Universidade Federal de Campina Grande (UFCG)**  
+💻 Interessado em **desenvolvimento de software**, **engenharia de sistemas** e **soluções tecnológicas** que gerem impacto positivo.
 
 ---
 
-## 🚀 Tecnologias que utilizo
+## 💼 Sobre mim
+
+Atualmente, dedico-me ao aprimoramento das minhas habilidades em programação e à participação em projetos que envolvem lógica, resolução de problemas e boas práticas de desenvolvimento.  
+Busco constantemente unir rigor técnico, aprendizado contínuo e comprometimento com qualidade.
+
+---
+
+## 🧠 Linguagens e Tecnologias
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📊 Minhas estatísticas no GitHub
+## 📊 Estatísticas no GitHub
 
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunogaudencio&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunogaudencio&layout=compact&theme=tokyonight)
-
----
-
-## 🕊️ Uma frase que me inspira
-
-> “Confia no Senhor de todo o teu coração e não te apoies em tua própria inteligência.”  
-> — Provérbios 3:5 ✨
+![Ailton's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunogaudencio&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunogaudencio&layout=compact&theme=transparent)
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌐 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ailton-bruno-caldas-gaudencio-76a379389?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ailton.bruno.caldas.gaudencio@ccc.ufcg.edu.br)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brunogaudencio)
+📧 **E-mail:** [ailton.bruno.caldas.gaudencio@ccc.ufcg.edu.br](mailto:ailton.bruno.caldas.gaudencio@ccc.ufcg.edu.br)  
+💼 **LinkedIn:** [Ailton Bruno Caldas Gaudêncio](https://www.linkedin.com/in/ailton-bruno-caldas-gaudencio-76a379389?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+🐙 **GitHub:** [github.com/brunogaudencio](https://github.com/brunogaudencio)
 
 ---
 
-![Visitas](https://komarev.com/ghpvc/?username=brunogaudencio&color=blue)
+![Visitas](https://komarev.com/ghpvc/?username=brunogaudencio&color=gray)
