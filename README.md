@@ -13,7 +13,7 @@ Busco constantemente unir rigor técnico, aprendizado contínuo e comprometiment
 ## 🧠 Linguagens e Tecnologias
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -38,7 +38,7 @@ Busco constantemente unir rigor técnico, aprendizado contínuo e comprometiment
   <a href="https://wa.me/5583991057673" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
-  <a 
+</p>
 
 ---
 
